@@ -1,3 +1,10 @@
+# LinkedIn-Clone
+
+![App Screenshot](public/images/LinkedIn-Clone.jpg)
+
+Using React & Firebase. The App is the clone of 'LinkedIn'. This application includes user authentication, full addition and deletion posts.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
