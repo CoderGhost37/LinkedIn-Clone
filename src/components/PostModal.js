@@ -279,6 +279,9 @@ const UploadImage = styled.div`
   img {
     width: 100%;
   }
+  label {
+    cursor: pointer;
+  }
 `;
 
 const mapStateToProps = (state) => {
